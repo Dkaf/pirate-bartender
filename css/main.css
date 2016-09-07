@@ -1,0 +1,13 @@
+html{
+    height: 100%;
+}
+
+.preferences, .finished-drink {
+    text-align: center;;
+    position: relative;
+    top: 300px;
+}
+
+.title{
+    text-align: center;
+}
