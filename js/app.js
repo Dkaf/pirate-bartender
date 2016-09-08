@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 randomNum = Math.floor(Math.random() * (4))
-=======
-
->>>>>>> fe4e63cdd87ad3b217fbca800986b97330b55a8f
-=======
-
->>>>>>> fe4e63cdd87ad3b217fbca800986b97330b55a8f
 
 //constructor function for questions
 var Question = function(asked, type){
@@ -118,7 +110,3 @@ $('.new-drink').on('click', function(){
   questions[currentQuestion].display();
   $('.finished-drink').html('');
 })
-<<<<<<< HEAD
-=======
-
->>>>>>> fe4e63cdd87ad3b217fbca800986b97330b55a8f
